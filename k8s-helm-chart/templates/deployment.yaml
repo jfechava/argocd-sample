@@ -16,4 +16,4 @@ spec:
       - name: myapp
         image: jfechava/weatherforecast:1.0.0
         ports:
-        - containerPort: 8080
+        - containerPort: 80
